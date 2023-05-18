@@ -1,1 +1,1 @@
-Hello, I'm catcoding02! I am a college student who told herself she never wanted to code but here we are. Have fun checking out my pet project for my college research group's website.
+Hello, I'm catcoding02! I am a college student who told herself she never wanted to code but here we are. I love learning how to apply programming to my passion projects and use programming to make life more efficient!
