@@ -1,1 +1,1 @@
-Hello, I'm catcoding02! I am a college student who told herself she never wanted to code but here we are. I love learning how to apply programming to my passion projects and use programming to make life more efficient!
+Hello, I'm Laura Edwards! I am a Statistical and Data Sciences major at Smith College, class of 2025. I am passionate about exploring the variety of ways data is collected, secured, stored, and delivered in various industries and applications. Here are just a couple of the projects I have worked on in my personal time!
